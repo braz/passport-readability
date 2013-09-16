@@ -1,4 +1,9 @@
 # passport-readability
+
+[![Build](https://travis-ci.org/eoinbrazil/passport-readability.png)](http://travis-ci.org/jeoinbrazil/passport-readability)
+[![Coverage](https://coveralls.io/repos/eoinbrazil/passport-readability/badge.png)](https://coveralls.io/r/eoinbrazil/passport-readability)
+[![Dependencies](https://david-dm.org/eoinbrazil/passport-readability.png)](http://david-dm.org/eoinbrazil/passport-readability)
+
 ## build based on [Passport](http://passportjs.org/) and particularly [Passport-Twitter](http://https://github.com/jaredhanson/passport-twitter)
 
 [Passport](http://passportjs.org/) strategy for authenticating with [Readability](http://readability.com/)
